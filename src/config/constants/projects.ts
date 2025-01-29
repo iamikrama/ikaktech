@@ -54,9 +54,9 @@ export const projects: Project[] = [
     },
   },
   {
-    name: "Ikak.Tech",
+    name: "Ikak Tech",
     slug: "ikaktech",
-    logo: "https://raw.githubusercontent.com/iamikrama/ikaktech/main/images/mypic.jpg",
+    logo: "https://raw.githubusercontent.com/iamikrama/ikaktech/main/public/images/mypic.jpg",
     tagline: "This Portfolio, using Typescript, NextJs",
     description:
       "My Own Portfolio Website",
